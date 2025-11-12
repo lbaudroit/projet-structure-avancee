@@ -1,0 +1,3 @@
+Ce projet consiste en la génération d'une structure utile d'un projet de programmation.
+Celle-ci permet de s'exercer sur l'utilisation de Git et GitHub.
+Le contenu de ce projet consiste principalement à du texte fortement inutile.
